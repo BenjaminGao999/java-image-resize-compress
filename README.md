@@ -1,0 +1,1 @@
+# java-image-resize-compress
